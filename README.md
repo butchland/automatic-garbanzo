@@ -3,7 +3,7 @@ This is a template github project for building your binder app based on the arti
 
 ## Instructions for Deploying to Binder
 
-_Do the next steps only after making sure you already created and exported the learner (`export.pkl`) and your stripped down voila app notebook is ready (preferably tested in a jupyter notebook environment with voila)._
+_Do the next steps only after making sure you already created and exported the learner (`export.pkl`)._
 
 1. Create a [github account](https://github.com/join?source=header-home) if you don't have one yet.
 1. Fork [this repo](https://github.com/butchland/build-your-own-image-classifier-template) as a template for your own binder app repository. You can [click on this link to generate your own copy.](https://github.com/butchland/build-your-own-image-classifier-template/generate) 
